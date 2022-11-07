@@ -10,10 +10,10 @@ header{
 }
 #logo-header{
    width: 200px;
-   margin:100px 0 0 10px;
+   margin:100px 0 0 60px;
 }
 main ,footer{
-    margin: 10px;
+    padding: 0  60px;
 }
 .titolo-grande{
     width: 90%;
