@@ -12,12 +12,12 @@ header{
    width: 200px;
    margin:100px 0 0 10px;
 }
-main{
+main ,footer{
     margin: 10px;
 }
 .titolo-grande{
-    width: 80%;
-    font-size: 40px;
+    width: 90%;
+    font-size: 45px;
 }
 .sottotitolo-header{
     color: grey;
@@ -27,7 +27,56 @@ main{
 }
 .img-tim{
     height: 400px;
+    margin-top: 20px;
 }
 .nome-img{
     font-size: 13px;
+}
+.testo-evidenziato{
+    background-color: yellow;
+}
+.description{
+    margin: 20px 0;
+}
+#list-obiettivi{
+    margin-left: 10px;
+} 
+table{
+   width: 100%;
+   border-spacing: 0;
+   margin: 20px 0;
+}
+thead{
+    text-align: left;
+    color: white;
+    background-color: #1aabe6;
+}
+tbody{
+    background-color: #b2e6f2;
+}
+#row-table-center{
+    background-color: white;
+}
+.ultima-cella{
+    width: 50%;
+}
+#title-footer{
+    color: grey;
+    margin-top: 20px;
+}
+.img-pc{
+    width: 300px;
+    height: 200px;
+    background-image: url(../img/monitor.jpg);
+    background-size:cover;
+    color: white;
+    font-weight: bold;
+    font-size: larger;
+    text-align: center;
+}
+.prima{
+    background-image: url(../img/monitor.jpg);
+}
+.seconda{
+    background-image: url(../img/graph.jpg);
 }
