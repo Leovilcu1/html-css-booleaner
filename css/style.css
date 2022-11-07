@@ -3,8 +3,6 @@
     margin: 0;
     padding: 0;
 }
-
-
 header{
     background-color: #4da1ff;
     height: 175px;
@@ -13,4 +11,23 @@ header{
 #logo-header{
    width: 200px;
    margin:100px 0 0 10px;
+}
+main{
+    margin: 10px;
+}
+.titolo-grande{
+    width: 80%;
+    font-size: 40px;
+}
+.sottotitolo-header{
+    color: grey;
+}
+#author-titolo-grande{
+    color: #25afe7;
+}
+.img-tim{
+    height: 400px;
+}
+.nome-img{
+    font-size: 13px;
 }
